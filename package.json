@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark-site",
+  "version": "1.0.0",
+  "description": " Meadowlark Travel Web Site",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fc",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.1",
+    "express-handlebars": "^7.1.2"
+  }
+}
